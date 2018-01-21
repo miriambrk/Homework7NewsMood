@@ -9,3 +9,5 @@ Observations:
 1) Sentiment varies significantly depending on the current news. I ran this on several days and got fairly different results each time. So it's hard to make generalizations.
 2) The majority of compound sentiment is within -0.75 and 0.75. There are few points outside that range.
 3) Textblob is more optimistic than Vader in analyzing sentiment. Textblob's sentiments are much more positive than Vader's composite sentiments.
+
+![News Sentiment](Overall_Sentiment.png "News Sentiment")
